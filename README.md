@@ -2,6 +2,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript REST API boilerplate.
 
+## Features
+- [x] Database. Support [Prisma ORM](https://www.prisma.io/docs/orm/overview/introduction/what-is-prisma) and [PostgreSQL](https://www.postgresql.org/) 
+
 ## Installation
 
 ```bash
